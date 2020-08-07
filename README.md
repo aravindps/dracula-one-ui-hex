@@ -1,8 +1,8 @@
-# Dracula for [X](http://link-to-x.com)
+# Dracula for Hex Installer OneUI/OneUI 2.0
 
-> A dark theme for [One UI/One UI2.0](http://link-to-x.com) over Hex Install for android.
+> A dark theme for [Hex Installer OneUI/OneUI 2.0](https://play.google.com/store/apps/details?id=project.vivid.hex.bodhi&hl=en_IN) for samsung android.
 
-![Phone Dialer](./screenshot/phone_dialer.jpg)
+![Phone Dialer](./screenshot/phone_dialer.jpg|width=10px)
 ![App menu](./screenshot/app_menu.jpg)
 ![Samsung Keyboard](./screenshot/samsung_keyboard.jpg)
 ![Task Manager](./screenshot/task_manager.jpg)
